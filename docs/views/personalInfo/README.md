@@ -2,28 +2,32 @@
 title: 个人信息
 tags:
  - 个人信息
-date: 2018-09-10
+categories: 
+ - personal information
+date: 2020-12-18
 isComment: false
-sidebar: false
 ---
 
 #### 我做过的事
 
 ***
  
-`Vue全家桶` `微信JS-SDK` `微信小程序` `ES6` `Sass` `Less` `Stylus` `NodeJS` `vuepress` `fetch` `gulp` `webpack`
+`Html` `Css` `JavaScript` `Vue` `ES6` `NodeJS` `Android` `vuepress` `webpack`
 
-#### 我的业余生活
-
-***
-
-1. [vuepress-theme-reco](https://www.npmjs.com/package/vuepress-theme-reco)<br>
-   一款简介的vuepress博客主题
-2. [reco-fetch](https://www.npmjs.com/package/reco-fetch)<br>
-   针对fetch的应用型封装
-
-个人博客：[**午后南杂**](http://recoluan.gitlab.io) 
+#### 我的项目经历
 
 ***
 
-### 如果有话对我讲，那就请[联系我](https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A)
+1. [Employ_management_system](https://github.com/cghyc/IBM_Project_Vue)<br>
+   一款简便的员工信息管理系统
+3. [Myblog_reco](https://github.com/cghyc/myblog_reco)<br>
+   个人博客<br><br>
+
+
+个人博客：[**cgh_yc**](http://cghyc.icu)<br> 
+个人Github: [**cghyc**](https://github.com/cghyc)<br>
+个人Gitee: [**cgh_yc**](https://gitee.com/cgh-yc)
+
+***
+
+### 如果有话对我讲，那就请联系我。WeChat: 13049617353
